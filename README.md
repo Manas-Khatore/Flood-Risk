@@ -4,8 +4,8 @@ I worked with three other students to create this project through the General Me
 This project was presented at the Data Science Society Symposium on 11/30/2021, as well as the Berkeley EECS and Research Symposium on 12/02/2021 that also featured research from Machine Learning at Berkeley, Student Association for Applied Statistics, and the Berkeley Institute of Electrical and Electronics Engineers. 
 
 Tools used include:
-- pandas,
-- matplotlib,
+- pandas
+- matplotlib
 - sci-kit learn
 - Google Maps API
-- datascience from UC Berkeley's Data 8 course (syntactically similar to pandas)
+- datascience module from UC Berkeley's Data 8 course (syntactically similar to pandas)
