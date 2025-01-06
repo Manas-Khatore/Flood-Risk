@@ -6,6 +6,6 @@ This project was presented at the Data Science Society Symposium on 11/30/2021, 
 Tools used include:
 - pandas
 - matplotlib
-- sci-kit learn
+- scikit-learn
 - Google Maps API
 - datascience module from UC Berkeley's Data 8 course (syntactically similar to pandas)
